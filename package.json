@@ -1,0 +1,29 @@
+{
+  "name": "ex-rain",
+  "version": "1.0.0",
+  "description": "A node js for openshift",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajarv/node-ex-rain.git"
+  },
+  "keywords": [
+    "Express",
+    "OpenShift",
+    "NodeJS",
+    "Love"
+  ],
+  "author": "Ajar Vashisth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajarv/node-ex-rain/issues"
+  },
+  "homepage": "https://github.com/ajarv/node-ex-rain#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm": "^6.4.1"
+  }
+}
